@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tour App</string>
+    <string name="hermitage">Hermitage</string>
+    <string name="russian_museum">Russian Museum</string>
+    <string name="savior_on_blood">Saviour on the Spilled Blood</string>
+    <string name="peterhof">Peterhof</string>
+    <string name="pavlovsk">Pavlovsk</string>
+    <string name="hi">Hi!</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="well">Well!</string>
+    <string name="back">Back</string>
+    <string name="peterhof_text">One of St. Petersburg\'s most famous and popular visitor attractions, the palace and park at Peterhof (also known as Petrodvorets) are often referred to as "the Russian Versailles", although many visitors conclude that the comparison does a disservice to the grandeur and scope of this majestic estate.\nVersailles was, however, the inspiration for Peter the Great\'s desire to build an imperial palace in the suburbs of his new city and, after an aborted attempt at Strelna, Peterhof - which means "Peter's Court" in German - became the site for the Tsar's Monplaisir Palace, and then of the original Grand Palace. The estate was equally popular with Peter's daughter, Empress Elizabeth, who ordered the expansion of the Grand Palace and greatly extended the park and the famous system of fountains, including the truly spectacular Grand Cascade.</string>
+    <string name="petersburg">City</string>
+    <string name="suburbs">Suburbs</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="phrases">Phrases</string>
+    <string name="pavlovsk_text">The palace and park ensemble "Pavlovsk" is a monument of architecture of the end of XVIII - beginning of XIX centuries. It was constructed by such outstanding architects, decorators and artists of XVIII-XIX centuries as C. Cameron, V. Brenna, A. Voronikhin, J. Kvarenghi, K. Rossi, P. Gonzago and others.</string>
+    <string name="peterhof_russian">Петергоф</string>
+    <string name="pavlovsk_russian">Павловск</string>
+    <string name="hermitage_direction">2, Dvortsovaya Square</string>
+    <string name="russian_museum_direction">Inzhenernaya ul., 4</string>
+    <string name="savior_on_blood_direction">Griboyedov Canal Emb., 2A</string>
+    <string name="privet_russian">Привет</string>
+    <string name="privet">/privet/</string>
+    <string name="kakdela_russian">Как дела?</string>
+    <string name="kakdela">/kak dila/</string>
+    <string name="xorosho_russian">Хорошо!</string>
+    <string name="xorosho">/horosho/</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="v">v</string>
+    <string name="a_sound">/a/</string>
+    <string name="b_sound">/b/</string>
+    <string name="v_sound">/v/</string>
+    <string name="zero">zero</string>
+</resources>
